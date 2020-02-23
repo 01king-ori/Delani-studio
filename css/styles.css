@@ -1,5 +1,5 @@
 .sec1{
-    background-image: url(../img/h_img\ \(copy\).jpg);
+    background-image: url(../images/h_img\ \(copy\).jpg);
     background-size: cover;
 }
 .text-1{
@@ -13,7 +13,7 @@
     text-align: center;
 }
 .sec3{
-    background-image: url(../img/s_image.jpg);
+    background-image: url(../images/s_image.jpg);
     text-align: center;
     padding: 100px;
     color: white;
