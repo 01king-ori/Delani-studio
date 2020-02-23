@@ -1,4 +1,4 @@
-.part1{
+.sec1{
     background-image: url(../img/h_img\ \(copy\).jpg);
     background-size: cover;
 }
@@ -9,10 +9,10 @@
     margin-left: auto;
     margin-right: auto
 }
-.part2{
+.sec2{
     text-align: center;
 }
-.part3{
+.sec3{
     background-image: url(../img/s_image.jpg);
     text-align: center;
     padding: 100px;
@@ -24,7 +24,7 @@
 .prt{
     text-align: center;
 }
-.part6{
+.sec6{
     background-image: url(../img/c_image.jpg);
     text-align: center;
     /* opacity: 0.5; */
